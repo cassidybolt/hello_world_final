@@ -1,7 +1,7 @@
 function setup() {
     // Create the canvas
     createCanvas(720, 400);
-    background(0);
+    background(117,217,242);
   
     // Set colors
     fill(33,64,95);
